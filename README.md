@@ -10,10 +10,10 @@ As seen in [this video](https://www.youtube.com/watch?v=todarS6XTPc).
  - Renders the sphere scene on your calculator screen
 
 ## RAYTRMAX
- - Renders 9 pieces of the sphere scene on your calculator screen and saves them as Pictures. This allows for 3 times greater resolution in each direction.
+ - Renders 9 pieces of the sphere scene on your calculator screen and saves them as pictures. This allows for 3 times greater resolution in each direction.
 
 ## RECORD
- -Part of RAYTRMAX. Saves each of the pictures.
+ - Part of RAYTRMAX. Saves each of the pictures.
 
 ## PANOVIEW
  - Lets you view the full 3x3 rendered image from RAYTRMAX.
